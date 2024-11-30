@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sustitutorio</string>
+    <string name="send_email">Send Email</string>
+    <string name="post_body_subject">Post Body</string>
+</resources>
